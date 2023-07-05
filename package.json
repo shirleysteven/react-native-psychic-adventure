@@ -1,0 +1,27 @@
+{
+    "name": "react-native-psychic-adventure",
+    "version": "1.0.0",
+    "description": "this is designed for adventure",
+    "homepage": "https://github.com/shirleysteven/react-native-psychic-adventure",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native-psychic-adventure"
+    ],
+    "author": {
+      "name": "adventure",
+      "email": "adventure@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/shirleysteven/react-native-psychic-adventure.git"
+    },
+    "peerDependencies": {
+      "react": "*",
+      "react-native": "*"
+    }
+  }
+  
